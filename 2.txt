@@ -1,2 +1,2 @@
 This is my first devops project. I am trying to learn devops technology as i am willing to change my stream from Middleware to devops. I hope it all goes well and i will be able to complete this 
-course with merit.
+course with merit.Also need to complete devops certification.
